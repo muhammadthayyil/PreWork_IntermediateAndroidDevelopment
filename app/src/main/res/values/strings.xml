@@ -2,4 +2,6 @@
     <string name="app_name">HelloWorld</string>
     <string name="thayyil_intro">Hello World! My name is Thayyil and I am currently learning android development</string>
     <string name="button_text">Say Hello</string>
+    <string name="checkBox1Text">Read Bio</string>
+    <string name="checkBox2">Clicked "Say Hello" Button</string>
 </resources>
